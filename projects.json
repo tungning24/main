@@ -23,5 +23,10 @@
     "name":"บวกเลข",
     "icon":"🧮",
     "url":"https://tungning24.github.io/plusNum"
+  },
+  {
+    "name":"บอลโลก 2026",
+    "icon":"⚽",
+    "url":"https://tungning24.github.io/wc2026"
   }
 ]
