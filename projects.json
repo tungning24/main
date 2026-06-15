@@ -1,10 +1,5 @@
 [
   {
-    "name":"หวยเจ๊ฟ้า",
-    "icon":"🎲",
-    "url":"https://tungning24.github.io/lotto-pwa"
-  },
-  {
     "name":"Mobile Helper",
     "icon":"📱",
     "url":"https://tungning24.github.io/topup"
@@ -28,5 +23,15 @@
     "name":"บอลโลก 2026",
     "icon":"⚽",
     "url":"https://tungning24.github.io/wc2026"
+  },
+  {
+    "name":"หวยเจ๊ฟ้า",
+    "icon":"🎲",
+    "url":"https://tungning24.github.io/lotto-pwa"
+  },
+  {
+    "name":"จัดชุดตัวเลข",
+    "icon":"🔢",
+    "url":"https://tungning24.github.io/allnum"
   }
 ]
