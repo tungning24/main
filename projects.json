@@ -1,5 +1,10 @@
 [
   {
+    "name":"บัญชีค้างจ่าย",
+    "icon":"📒",
+    "url":"https://tungning24.github.io/customer-debts"
+  },
+  {
     "name":"Mobile Helper",
     "icon":"📱",
     "url":"https://tungning24.github.io/topup"
