@@ -46,7 +46,12 @@
   },
   {
     "name":"จัดชุดตัวเลข",
-    "icon":"🔢",
+    "icon":"📈",
     "url":"https://tungning24.github.io/allnum"
+  },
+  {
+    "name":"Slide Puzzle",
+    "icon":"🔢",
+    "url":"https://tungning24.github.io/slidePuzzle"
   }
 ]
